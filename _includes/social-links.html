@@ -46,6 +46,12 @@
             <svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg>
         </a>
     {% endif %}
+    
+        {% if site.academia %}
+    <a class="link" data-title="{{ site.academia }}" href="{{ site.academia }}" target="_blank">
+                 <svg class="icon icon-academia"><use xlink:href="#icon-academia"></use></svg>            
+        </a>
+     {% endif %}
 
     {% if site.github %}
         <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
@@ -70,4 +76,7 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    
+
+
 </div>

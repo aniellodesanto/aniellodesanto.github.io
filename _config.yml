@@ -1,11 +1,12 @@
 # main text of home
 name: Aniello De Santo
-bio: Under Development
+#bio: I'm a Ph.D. student at Stony Brook University, interested in Mathematical Linguistics, Syntax, and Computational Psycho/Neurolinguistics. Check out my CV!
+bio: Under Construction
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
-# if it's an external image, update below for true
+#if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
@@ -26,7 +27,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -34,14 +35,14 @@ disqus: mydisqus
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+#linkedin: https://www.linkedin.com/
 #youtube: myyoutube
 #spotify: myspotify
-#github: mygithub
+academia: https://sbsuny.academia.edu/AnielloDeSanto
+github: aniellodesanto
 #medium: medium
-#vimeo: myvimeo
-#email: myemail@gmail.com
-#just messing around
+email: aniello.desanto[_at_]stonybrook.edu
+
 
 authors:
     johndoe:
