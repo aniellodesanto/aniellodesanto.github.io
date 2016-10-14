@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:books/sp/15/Amato0PPS15}
+{\bf Content-Based Multimedia Retrieval}.
+\newblock Flora Amato, Luca Greco, Fabio Persia, Silvestro~Roberto Poccia, and
+  Aniello~De Santo.
+\newblock In {\em Data Management in Pervasive Systems}, pages 291--310. 2015.
+
+\bibitem{DBLP:conf/icde/AmatoSGMPPP15}
+{\bf SemTree: An index for supporting semantic retrieval of documents}.
+\newblock Flora Amato, Aniello~De Santo, Francesco Gargiulo, Vincenzo Moscato,
+  Fabio Persia, Antonio Picariello, and Silvestro~Roberto Poccia.
+\newblock In {\em 31st {IEEE} International Conference on Data Engineering
+  Workshops, {ICDE} Workshops 2015, Seoul, South Korea, April 13-17, 2015},
+  pages 62--67, 2015.
+
+\bibitem{DBLP:conf/data/AmatoSGMPPS15}
+{\bf A Novel Approach to Query Expansion based on Semantic Similarity
+  Measures}.
+\newblock Flora Amato, Aniello~De Santo, Francesco Gargiulo, Vincenzo Moscato,
+  Fabio Persia, Antonio Picariello, and Giancarlo Sperl{\`{\i}}.
+\newblock In {\em {DATA} 2015 - Proceedings of 4th International Conference on
+  Data Management Technologies and Applications, Colmar, Alsace, France, 20-22
+  July, 2015.}, pages 344--353, 2015.
+
+\bibitem{DBLP:conf/semco/AmatoSMPP14}
+{\bf Detecting Unexplained Human Behaviors in Social Networks}.
+\newblock Flora Amato, Aniello~De Santo, Vincenzo Moscato, Fabio Persia, and
+  Antonio Picariello.
+\newblock In {\em 2014 {IEEE} International Conference on Semantic Computing,
+  Newport Beach, CA, USA, June 16-18, 2014}, pages 143--150, 2014.
+
+\bibitem{DBLP:conf/semco/AmatoSMPPP15}
+{\bf Partitioning of ontologies driven by a structure-based approach}.
+\newblock Flora Amato, Aniello~De Santo, Vincenzo Moscato, Fabio Persia,
+  Antonio Picariello, and Silvestro~Roberto Poccia.
+\newblock In {\em Proceedings of the 9th {IEEE} International Conference on
+  Semantic Computing, {ICSC} 2015, Anaheim, CA, USA, February 7-9, 2015}, pages
+  320--323, 2015.
+
+\bibitem{DBLP:conf/sebd/AmatoSMPPPS15}
+{\bf A structure-based approach for ontology partitioning}.
+\newblock Flora Amato, Aniello~De Santo, Vincenzo Moscato, Fabio Persia,
+  Antonio Picariello, Silvestro~Roberto Poccia, and Giancarlo Sperl{\`{\i}}.
+\newblock In {\em 23rd Italian Symposium on Advanced Database Systems, {SEBD}
+  2015, Gaeta, Italy, June 14-17, 2015.}, pages 184--191, 2015.
+
+\bibitem{DBLP:conf/cisis/AmatoSMPSS15}
+{\bf A Lexicon-Grammar Based Methodology for Ontology Population for e-Health
+  Applications}.
+\newblock Flora Amato, Aniello~De Santo, Vincenzo Moscato, Antonio Picariello,
+  D.~Serpico, and Giancarlo Sperl{\`{\i}}.
+\newblock In {\em Ninth International Conference on Complex, Intelligent, and
+  Software Intensive Systems, {CISIS} 2015, Santa Catarina, Brazil, July 8-10,
+  2015}, pages 521--526, 2015.
+
+\bibitem{DBLP:books/sp/15/Chang0S15}
+{\bf Sentiment Detection in Social Networks Using Semantic Analysis: {A} Tool
+  for Sentiment Analysis and Its Application in Cultural Heritage Realm}.
+\newblock Shi{-}Kuo Chang, Luca Greco, and Aniello~De Santo.
+\newblock In {\em Data Management in Pervasive Systems}, pages 183--193. 2015.
+
+\bibitem{DBLP:conf/fg/GrafAS16}
+{\bf A Single Movement Normal Form for Minimalist Grammars}.
+\newblock Thomas Graf, Al{\"{e}}na Aks{\"{e}}nova, and Aniello~De Santo.
+\newblock In {\em Formal Grammar - 20th and 21st International Conferences,
+  {FG} 2015, Barcelona, Spain, August 2015, Revised Selected Papers. {FG} 2016,
+  Bozen, Italy, August 2016, Proceedings}, pages 200--215, 2016.
+
+\bibitem{DBLP:conf/sebd/PersiaPAGS14}
+{\bf Finding unexplained human behaviors in Social Networks}.
+\newblock Fabio Persia, Silvestro~Roberto Poccia, Flora Amato, Francesco
+  Gargiulo, and Aniello~De Santo.
+\newblock In {\em 22nd Italian Symposium on Advanced Database Systems, {SEBD}
+  2014, Sorrento Coast, Italy, June 16-18, 2014.}, pages 89--96, 2014.
+
+\bibitem{DBLP:conf/tag/SantoAG16}
+{\bf An Alternate View on Strong Lexicalization in {TAG}}.
+\newblock Aniello~De Santo, Al{\"{e}}na Aks{\"{e}}nova, and Thomas Graf.
+\newblock In {\em Proceedings of the 12th International Workshop on Tree
+  Adjoining Grammars and Related Formalisms (TAG+12), June 29 - July 1, 2016,
+  Heinrich Heine University, D{\"{u}}sseldorf, Germany}, pages 93--102, 2016.
+
+\end{thebibliography}

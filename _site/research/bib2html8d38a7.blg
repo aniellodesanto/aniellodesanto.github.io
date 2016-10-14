@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bib2html8d38a7.aux
+The style file: /Users/Ani/Documents/Github/aniellodesanto.github.io/_plugins/style.bst.bst
+Database file #1: /Users/Ani/Documents/Github/aniellodesanto.github.io/research/my_bibliography.bib
+A bad cross reference---entry "DBLP:conf/fg/GrafAS16"
+refers to entry "DBLP:conf/fg/2016", which doesn't exist
+A bad cross reference---entry "DBLP:conf/tag/SantoAG16"
+refers to entry "DBLP:conf/tag/2016", which doesn't exist
+A bad cross reference---entry "DBLP:conf/cisis/AmatoSMPSS15"
+refers to entry "DBLP:conf/cisis/2015", which doesn't exist
+A bad cross reference---entry "DBLP:conf/data/AmatoSGMPPS15"
+refers to entry "DBLP:conf/data/2015", which doesn't exist
+A bad cross reference---entry "DBLP:conf/icde/AmatoSGMPPP15"
+refers to entry "DBLP:conf/icde/2015w", which doesn't exist
+A bad cross reference---entry "DBLP:conf/sebd/AmatoSMPPPS15"
+refers to entry "DBLP:conf/sebd/2015", which doesn't exist
+A bad cross reference---entry "DBLP:conf/semco/AmatoSMPPP15"
+refers to entry "DBLP:conf/semco/2015", which doesn't exist
+A bad cross reference---entry "DBLP:books/sp/15/Chang0S15"
+refers to entry "DBLP:books/sp/CSMP2015", which doesn't exist
+A bad cross reference---entry "DBLP:books/sp/15/Amato0PPS15"
+refers to entry "DBLP:books/sp/CSMP2015", which doesn't exist
+A bad cross reference---entry "DBLP:conf/sebd/PersiaPAGS14"
+refers to entry "DBLP:conf/sebd/2014", which doesn't exist
+A bad cross reference---entry "DBLP:conf/semco/AmatoSMPP14"
+refers to entry "DBLP:conf/semco/2014", which doesn't exist
+Warning--empty publisher in DBLP:books/sp/15/Amato0PPS15
+Warning--empty publisher in DBLP:books/sp/15/Chang0S15
+You've used 11 entries,
+            2134 wiz_defined-function locations,
+            579 strings with 8146 characters,
+and the built_in function-call counts, 6060 in all, are:
+= -- 581
+> -- 318
+< -- 11
++ -- 130
+- -- 114
+* -- 440
+:= -- 890
+add.period$ -- 35
+call.type$ -- 11
+change.case$ -- 79
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 260
+empty$ -- 455
+format.name$ -- 114
+if$ -- 1333
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 125
+preamble$ -- 1
+purify$ -- 79
+quote$ -- 0
+skip$ -- 206
+stack$ -- 0
+substring$ -- 391
+swap$ -- 124
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 2
+while$ -- 55
+width$ -- 13
+write$ -- 123
+(There were 11 error messages)

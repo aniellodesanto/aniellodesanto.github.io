@@ -2,9 +2,9 @@
 # blog page must be named index.html and in its own folder to support pagination
 # https://jekyllrb.com/docs/pagination/
 layout: page
-title: Blog
+title: Research
 ---
-<section class="list">
+<!--<section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
@@ -20,4 +20,14 @@ title: Blog
 			{% include blog-post.html %}
 		{% endfor %}
 	{% endif %}
-</section>
+</section>-->
+<center>
+<h2> Peer Reviewed Proceedings </h2>
+</center>
+{% bibtex _plugins/style.bst my_bibliography.bib %}
+
+<center>
+<h2> Book Chapters </h2>
+</center>
+
+{% bibtex _plugins/style.bst book_chapters.bib %}

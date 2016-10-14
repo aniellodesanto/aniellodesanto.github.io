@@ -3,7 +3,28 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-<h2>CV</h2>
+
+<table style="width: 750px; height: 100px;">
+ <tr>
+    <td>
+     Ph.D Student<br>
+     Office: SBS - 224<BR>
+     <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
+      Stony Brook University<BR>
+      Stony Brook, NY 11794-4376<BR>
+      aniello.desanto[_at_]stonybrook.edu
+      <br><br>
+      
+</td><td>
+   </td>
+    <td style="vertical-align: bottom;">
+      <span onmouseover="image1.src=loadImage1.src;" 
+      onmouseout="image1.src=staticImage1.src;">
+      </span>
+   </td>
+ </tr>
+</table>
+
 
 <h2>Research</h2>
 <p>Currently, I am a second year student in the Linguistics Department. 
@@ -37,7 +58,16 @@ In a previous life, I got a Master's Degree in Computer Science and Engineering
  </p>
 
 
+<h2>Stony Brook Misc</h2>
+<p>
+Together with <A HREF="http://www.aaksenova.com/">Alëna Aksënova</A>, I am
+the student organizer of Stony Brook's <A HREF="http://complab-stonybrook.github.io/mlrg/">Mathematical Linguistics Reading Group</A>.
 
+This is an informal group that meets every week for about an hour to explore various ways in which
+mathematics informs our view of language and it is intended to be a multidisciplinary venue to discuss awesome research ideas.
+Topics we've covered in the past are model theoretic syntax, game theory, dynamic semantics, and modal logic.
+If you want to be added to our shared Google Drive, feel free to send me an email.
+ </p>
 
 <h2>Skills</h2>
 
@@ -58,10 +88,4 @@ In a previous life, I got a Master's Degree in Computer Science and Engineering
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
