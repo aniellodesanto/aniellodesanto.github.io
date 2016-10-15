@@ -28,7 +28,7 @@ layout: page
 </table>
 
 <h2>Research</h2>
-<p>AAAAACurrently, I am a second year student in the Linguistics Department at Stony Brook University. 
+<p>I am currently a second year student in the Linguistics Department at Stony Brook University. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
 
@@ -46,6 +46,8 @@ On one side, I am interested in how notions from Formal Language Theory
 (e.g. complexity, leanability, generative capacity)
 can help shed light on structural and formal properties of Natural Language
 independent of framework-specific implementational details (e.g. new computational universals).
+In this sense, I find great value in working with well-defined grammatical formalisms such as MGs and TAGs.
+
 On the other side, I believe that a formal understanding of the computational requirements
 of the Language system can offer a solid theoretical support
 both to the design of new experiments in psycholinguistics and neurolinguistics
@@ -54,13 +56,26 @@ and to the use of  experimental results  in linguistic theories
 (e.g. reducing the complexity class of natural languages due to processing requirements).
 </p>
 
+<p>
+One recent interest of mine is in understanding the cognitive reality of the Chomsky Hierarchy (and Subregular Hierarchy).
+</p>
+
 <h2>Past Affiliations</h2>
 <p>
-In a previous life, I got a Master's Degree in Computer Science and Engineering
-(with a specialization in Automation and Complex System Theory)
- and a Bachelor's Degree in Computer Science, both from the University of Pavia, Italy.
- I also was a RA assistant at the University of Naples "Federico II", where I worked on modeling user
- interactions on Online Social Networks, and NLP techniques applied to Healthcare systems.
+In a previous life, I studied to become an Automation Engineer.
+I got my Bachelor's Degree in Computer Science from the University of Pavia (Italy), with a thesis on 
+the identification of models for the automatic control of an Artificial Pancreas.
+ </p>
+ <p>
+I then got a Master's Degree in Computer Science and Engineering (again from the University of Pavia),
+with a specialization in Automation and Complex System Theory.
+
+My Master's Thesis was partially written during a Research Internship in the Multimedia Systems Lab of the University of Naples "Federico II", where
+I developed a probabilistic framework for the detection of unexplained user behaviors in online social networks.
+ </p>
+ <p>
+After my graduation I spent one year as a RA assistant at the University of Naples "Federico II", where I kept working on modeling Online Social Network's user interactions, and 
+on NLP techniques applied to Healthcare systems.
  </p>
 
 
