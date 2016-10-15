@@ -33,31 +33,41 @@ My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
 
 <p>
-While my specific research interests are still in divenire,
-I am mainly oriented towards topics dealing with mathematical linguistics,
-theoretical syntax and computational psycho/neurolinguistics. 
-
-</p>
-
-<p>
+I am still in the process of discovering a specific focus for my work (will this ever happen?)
+but - to put misleading labels on my interests - I would say that my research area lies at the intersection
+between mathematical linguistics, theoretical syntax and computational psycho/neurolinguistics. 
 Generally, I am intrigued by how insights from Math and Computer Science
 can help investigations in theoretical and experimental linguistics.
-On one side, I am interested in how notions from Formal Language Theory 
-(e.g. complexity, leanability, generative capacity)
-can help shed light on structural and formal properties of Natural Language
-independent of framework-specific implementational details (e.g. new computational universals).
-In this sense, I find great value in working with well-defined grammatical formalisms such as MGs and TAGs.
-
-On the other side, I believe that a formal understanding of the computational requirements
-of the Language system can offer a solid theoretical support
-both to the design of new experiments in psycholinguistics and neurolinguistics
-(e.g. online sentence processing, possible/impossible grammars),
-and to the use of  experimental results  in linguistic theories
-(e.g. reducing the complexity class of natural languages due to processing requirements).
 </p>
 
 <p>
-One recent interest of mine is in understanding the cognitive reality of the Chomsky Hierarchy (and Subregular Hierarchy).
+
+On one side, I am interested in how notions from Formal Language Theory 
+(e.g. complexity, leanability, generative power)
+can help shed light on structural and formal properties of Natural Language
+independent of framework-specific implementational details (e.g. new computational universals).
+
+In this sense, one recent interest of mine is in understanding the cognitive reality of the
+Chomsky (and Subregular) Hierarchy for different linguistics domains.
+
+</p>
+
+<p>
+On the other side, I believe that a formal understanding of the computational requirements
+of the Language system can offer a solid theoretical support
+both to the design of new experiments in psycholinguistics and neurolinguistics,
+and to the use of experimental results in discriminating between theoretical accounts of syntactic processing
+(e.g. reducing the complexity class of natural languages due to processing requirements).
+
+Following these ideas, I particularly value the use of Formal Grammars (e.g. MGs, TAG)
+for online sentence processing experiments.
+
+</p>
+
+<p>
+On a separate note, I have been exploiting the idea of studying less known "dialects" of Italy to
+investigate problematic linguistics phenomena in Standard Italian. In particular, I have been working on the interaction
+between Raddoppiamento Sintattico and /sC/ clusters in the phonology of the Irpino Dialect (a southern Italian Dialect of the Neapolitan family).
 </p>
 
 <h2>Past Affiliations</h2>
