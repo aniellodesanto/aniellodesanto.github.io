@@ -12,7 +12,9 @@ layout: page
      <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
       Stony Brook University<BR>
       Stony Brook, NY 11794-4376<BR>
-      aniello.desanto[_at_]stonybrook.edu
+      aniello.desanto[_at_]stonybrook.edu<BR>
+      <BR>
+      <A HREF="CV.pdf">CV</A>
       <br><br>
       
 </td><td>
@@ -25,9 +27,8 @@ layout: page
  </tr>
 </table>
 
-
 <h2>Research</h2>
-<p>Currently, I am a second year student in the Linguistics Department at Stony Brook University. 
+<p>AAAAACurrently, I am a second year student in the Linguistics Department at Stony Brook University. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
 
