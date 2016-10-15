@@ -7,7 +7,7 @@ layout: page
 <table style="width: 750px; height: 100px;">
  <tr>
     <td>
-     Ph.D Student<br>
+     Ph.D. Student<br>
      Office: SBS - 224<BR>
      <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
       Stony Brook University<BR>
@@ -28,7 +28,7 @@ layout: page
 </table>
 
 <h2>Research</h2>
-<p>I am currently a second year student in the Linguistics Department at Stony Brook University. 
+<p>I am currently a second year Ph.D.student in the Linguistics Department at Stony Brook University. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
 
@@ -63,8 +63,8 @@ One recent interest of mine is in understanding the cognitive reality of the Cho
 <h2>Past Affiliations</h2>
 <p>
 In a previous life, I studied to become an Automation Engineer.
-I got my Bachelor's Degree in Computer Science from the University of Pavia (Italy), with a thesis on 
-the identification of models for the automatic control of an Artificial Pancreas.
+I got my Bachelor's Degree in Computer Science from the <A HREF="http://www.unipv.eu/site/en/home.html">University of Pavia</A> (Italy),
+with a thesis on the identification of models for the automatic control of an Artificial Pancreas.
  </p>
  <p>
 I then got a Master's Degree in Computer Science and Engineering (again from the University of Pavia),
