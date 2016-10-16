@@ -27,10 +27,12 @@ layout: page
  </tr>
 </table>
 
-<h2>Research</h2>
 <p>I am currently a second year Ph.D.student in the Linguistics Department at Stony Brook University. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
+
+<h2>Research (in brief)</h2>
+
 
 <p>
 I am still in the process of discovering a specific focus for my work (will this ever happen?)
@@ -40,6 +42,8 @@ Generally, I am intrigued by how insights from Math and Computer Science
 can help investigations in theoretical and experimental linguistics.
 </p>
 
+
+<h2>Research (less briefly)</h2>
 <p>
 
 On one side, I am interested in how notions from Formal Language Theory 
@@ -68,6 +72,7 @@ for online sentence processing experiments.
 On a separate note, I have been exploiting the idea of studying less known "dialects" of Italy to
 investigate problematic linguistics phenomena in Standard Italian. In particular, I have been working on the interaction
 between Raddoppiamento Sintattico and /sC/ clusters in the phonology of the Irpino Dialect (a southern Italian Dialect of the Neapolitan family).
+For this project, I recently received a small grant from the Stony Brook Center for Italian Studies.
 </p>
 
 <h2>Past Affiliations</h2>
