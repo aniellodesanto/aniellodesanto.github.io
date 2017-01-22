@@ -8,7 +8,7 @@ layout: page
  <tr>
     <td>
      Ph.D. Student<br>
-     Office: SBS - 224<BR>
+     Office: SBS - N224<BR>
      <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
       Stony Brook University<BR>
       Stony Brook, NY 11794-4376<BR>
