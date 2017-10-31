@@ -27,7 +27,8 @@ layout: page
  </tr>
 </table>
 
-<p>I am currently a second year Ph.D.student in the Linguistics Department at Stony Brook University. 
+<p>I am currently a third year Ph.D.student in the Linguistics Department at Stony Brook University. 
+I am also affiliated to Stony Brook's Institute for Advanced Computational Science (<A HREF="https://www.iacs.stonybrook.edu/">IACS</A>).
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
 
@@ -35,8 +36,7 @@ My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 
 
 <p>
-I am still in the process of discovering a specific focus for my work (will this ever happen?)
-but - to put misleading labels on my interests - I would say that my research area lies at the intersection
+To put misleading labels on my interests, I would say that my research area lies at the intersection
 between mathematical linguistics, theoretical syntax and computational psycho/neurolinguistics. 
 Generally, I am intrigued by how insights from Math and Computer Science
 can help investigations in theoretical and experimental linguistics.
