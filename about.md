@@ -27,8 +27,8 @@ layout: page
  </tr>
 </table>
 
-<p>I am currently a third year Ph.D.student in the Linguistics Department at Stony Brook University. 
-I am also affiliated to Stony Brook's Institute for Advanced Computational Science (<A HREF="https://www.iacs.stonybrook.edu/">IACS</A>).
+<p>I am currently a third year Ph.D.student in the Linguistics Department at Stony Brook University  and an affiliated student in the Institute for Advanced Computational Science (<A HREF="https://www.iacs.stonybrook.edu/">IACS</A>).
+I am a member of the  <A HREF="http://compling.stonybrook.edu/">Computational Linguistics Lab</A> and of the <A HREF="https://linguistics.stonybrook.edu/faculty/john.drury">Experimental Linguistics Lab (el.lab)</A>. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 </p>
 
@@ -36,8 +36,8 @@ My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
 
 
 <p>
-To put misleading labels on my interests, I would say that my research area lies at the intersection
-between mathematical linguistics, theoretical syntax and computational psycho/neurolinguistics. 
+My research area lies at the intersection
+between mathematical linguistics, theoretical syntax and phonology, and computational psycho/neurolinguistics. 
 Generally, I am intrigued by how insights from Math and Computer Science
 can help investigations in theoretical and experimental linguistics.
 </p>
