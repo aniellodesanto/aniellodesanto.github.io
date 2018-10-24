@@ -7,14 +7,6 @@
         {% endif %}
         
         
-        {% if site.projects == true %}
-            {% if page.title != "Teaching" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/teaching">Teaching</a>
-                </li>
-            {% endif %}
-        {% endif %}
-        
          {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
@@ -22,16 +14,31 @@
                 </li>
             {% endif %}
         {% endif %}
+        
+                                    {% if site.blog == true %}
+            {% if page.title != "Proj" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/projects">Projects</a>
+                </li>
+            {% endif %}
+        {% endif %}
+        
 
-
-
-        {% if site.blog == true %}
+            {% if page.title != "Teaching" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/teaching">Teaching</a>
+                </li>
+            {% endif %}
+            
+                    {% if site.blog == true %}
             {% if page.title != "Publications" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/publications">Publications</a>
                 </li>
             {% endif %}
         {% endif %}
+        
 
+        
     </ul>
 </nav>

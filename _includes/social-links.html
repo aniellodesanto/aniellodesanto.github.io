@@ -11,11 +11,17 @@
         </a>
     {% endif %}
 
-    {% if site.google %}
+   <!-- {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
         </a>
-    {% endif %}
+    {% endif %} -->
+    
+            {% if site.google %}
+    <a class="link" data-title="{{ site.google }}" href="{{ site.google }}" target="_blank">
+                 <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>         
+        </a>
+     {% endif %}
 
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
