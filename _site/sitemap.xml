@@ -28,7 +28,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/about/CV.pdf</loc>
-<lastmod>2018-10-23T12:57:59-04:00</lastmod>
+<lastmod>2019-05-21T15:18:47-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publications/Amsterdam2018_abstract.pdf</loc>
@@ -61,6 +61,10 @@
 <url>
 <loc>http://localhost:4000/publications/CLS54_paper.pdf</loc>
 <lastmod>2018-10-16T18:09:59-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publications/CMCL19_CR.pdf</loc>
+<lastmod>2019-04-04T13:47:17-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/publications/ESSLI_Presentation.pdf</loc>
