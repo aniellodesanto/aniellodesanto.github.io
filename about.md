@@ -14,7 +14,7 @@ layout: page
       Stony Brook, NY 11794-4376<BR>
       aniello.desanto[_at_]stonybrook.edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A>
+      <A HREF="CV.pdf">CV</A> (updated 13/10/2019)
       <br><br>
       
 </td><td>
@@ -27,17 +27,18 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify">I am currently a Ph.D.candidate (fourth year) in the Linguistics Department at Stony Brook University.
+<p  style="text-align:justify">I am currently a Ph.D.candidate in the Linguistics Department at Stony Brook University.
 I am also an affiliated student in the Institute for Advanced Computational Science (<A HREF="https://www.iacs.stonybrook.edu/">IACS</A>),
  and  a member of the  <A HREF="http://compling.stonybrook.edu/">Computational Linguistics Lab</A>. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
+My expected graduation date is May 2020.
 </p>
 
 <h2>Research (in brief)</h2>
 
 
 <p  style="text-align:justify">
-My research lies at the intersection between mathematical, theoretical, and experimental linguistics.
+My research lies at the intersection between computational, theoretical, and experimental linguistics.
 Essentially, I believe that language as a cognitive faculty can be characterized in fundamentally computational terms.
 My work pivots around three central questions: What are the representational primitives underlying the language system? What are the essential computational processes of language processing? How do these components interact with core cognitive resources like memory? 
 I approach these questions by drawing from different areas of theoretical computer science (in particular, formal languages and parsing theory), a  perspective that is multi-disciplinary at its core, and has allowed me to work on a variety of topics spanning phonology, morphology, semantics, and sentence processing.
