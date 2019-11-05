@@ -27,7 +27,7 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify">I am currently a Ph.D.candidate in the Linguistics Department at Stony Brook University.
+<p  style="text-align:justify">I am currently a Ph.D. candidate in the Linguistics Department at Stony Brook University.
 I am also an affiliated student in the Institute for Advanced Computational Science (<A HREF="https://www.iacs.stonybrook.edu/">IACS</A>),
  and  a member of the  <A HREF="http://compling.stonybrook.edu/">Computational Linguistics Lab</A>. 
 My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
