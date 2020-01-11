@@ -14,7 +14,7 @@ layout: page
       Stony Brook, NY 11794-4376<BR>
       aniello.desanto[_at_]stonybrook.edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A> (updated 13/10/2019)
+      <A HREF="CV.pdf">CV</A> (updated 12/15/2019)
       <br><br>
       
 </td><td>
