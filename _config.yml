@@ -1,6 +1,6 @@
 # main text of home
 name: Aniello De Santo
-bio: I'm a Ph.D. student at Stony Brook University, interested in Mathematical Linguistics, Theoretical Syntax, and Computational Psycho/Neurolinguistics.
+bio: I am an Assitant Professon in Linguistics at the University of Utah. I am mostly interested in Mathematical Linguistics, Theoretical Syntax, and Computational Psycho/Neurolinguistics.
 
 
 # twitter summary info
@@ -33,7 +33,6 @@ disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-#twitter: mytwitter
 google: https://scholar.google.com/citations?authuser=2&user=bzk5U9IAAAAJ
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -42,8 +41,9 @@ google: https://scholar.google.com/citations?authuser=2&user=bzk5U9IAAAAJ
 #spotify: myspotify
 #academia: https://sbsuny.academia.edu/AnielloDeSanto
 github: aniellodesanto
+twitter: AnyDs
 #medium: medium
-email: aniello.desanto[_at_]stonybrook.edu
+email: aniello.desanto[_at_]utah.edu
 
 
 authors:

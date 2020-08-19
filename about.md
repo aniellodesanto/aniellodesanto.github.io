@@ -7,14 +7,14 @@ layout: page
 <table style="width: 750px; height: 100px;">
  <tr>
     <td>
-     Ph.D. Student<br>
-     Office: SBS - N232<BR>
-     <A HREF="https://linguistics.stonybrook.edu/">Dept. of Linguistics</A><BR>
-      Stony Brook University<BR>
-      Stony Brook, NY 11794-4376<BR>
-      aniello.desanto[_at_]stonybrook.edu<BR>
+     Assistant Professor<br>
+     Office: Zoom these days<BR>
+     <A HREF="https://linguistics.utah.edu/">Dept. of Linguistics</A><BR>
+      University of Utah<BR>
+      Salt Lake City, UT 84112<BR>
+      aniello.desanto[_at_]utah[_dot_]edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A> (updated 12/15/2019)
+      <A HREF="CV.pdf">CV</A> (updated 08/18/2020)
       <br><br>
       
 </td><td>
@@ -27,11 +27,8 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify">I am currently a Ph.D. candidate in the Linguistics Department at Stony Brook University.
-I am also an affiliated student in the Institute for Advanced Computational Science (<A HREF="https://www.iacs.stonybrook.edu/">IACS</A>),
- and  a member of the  <A HREF="http://compling.stonybrook.edu/">Computational Linguistics Lab</A>. 
-My advisor is  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
-My expected graduation date is May 2020.
+<p  style="text-align:justify">I am an Assistant Professor in the Linguistics Department at the  University of Utah.
+I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in syntax and phonology).
 </p>
 
 <h2>Research (in brief)</h2>
@@ -46,6 +43,7 @@ I approach these questions by drawing from different areas of theoretical comput
 
 <p  style="text-align:justify">
 If you are wondering what any of this actually means, feel free to browse my <A HREF="../projects">Projects</A> or <A HREF="../publications">Publications</A> pages!
+If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
 </p>
 
 
@@ -53,6 +51,11 @@ If you are wondering what any of this actually means, feel free to browse my <A 
 
 <h2>Past Affiliations</h2>
 <p  style="text-align:justify">
+
+Before coming to Utah, I got my PhD in Linguistics from Stony Brook University, as an advisee of  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
+My dissertation is titled <A HREF="DeSantoAniello_Dissertation_Final.pdf">"Structure and Memory: A Computational Model of Storage, Gradience, and Priming"</A>.
+ </p>
+ <p  style="text-align:justify">
 In a previous life, I studied to become an Automation Engineer.
 I got my Bachelor's Degree in Computer Science from the <A HREF="http://www.unipv.eu/site/en/home.html">University of Pavia</A> (Italy),
 with a thesis on the identification of models for the automatic control of an Artificial Pancreas.
@@ -70,20 +73,6 @@ on NLP techniques applied to Healthcare systems.
  </p>
 
 
-<h2>Stony Brook Misc</h2>
-<p  style="text-align:justify">
-I'm involved in several reading groups at Stony Brook linguistics. 
-The <A HREF="http://complab-stonybrook.github.io/mlrg/">Mathematical Linguistics Reading Group</A> meets every week for about an hour to explore various ways in which
-mathematics informs our view of language and it is intended to be a multidisciplinary venue to discuss awesome research ideas.
-Topics we've covered in the past are model theoretic syntax, game theory, dynamic semantics, and modal logic.
-If you want to be added to our shared Google Drive, feel free to send me an email.
- </p>
- 
- <p  style="text-align:justify">
-Another group I'm particularly engaged with is the student-run Neurolinguistics Reading Group.
-This is an informal bi-weekly meet-up to discuss current literature on neuro- and psycholinguistics.
-You can email me or Nazila Shafiei is you want to be added to our mailinglist.
- </p>
 
 
 
