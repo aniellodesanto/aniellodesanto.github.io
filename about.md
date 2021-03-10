@@ -1,3 +1,4 @@
+.
 ---
 title: About
 layout: page
@@ -14,7 +15,7 @@ layout: page
       Salt Lake City, UT 84112<BR>
       aniello.desanto[_at_]utah[_dot_]edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A> (updated 08/18/2020)
+      <A HREF="CV.pdf">CV</A> (updated 02/28/2021)
       <br><br>
       
 </td><td>
