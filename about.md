@@ -29,8 +29,8 @@ layout: page
 
 <p  style="text-align:justify">I am an Assistant Professor in the Linguistics Department at the  University of Utah.
 I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in syntax and phonology).
-At U of U, I direct the MathEmatics of Language and cOgnition Lab (<A HREF="https://github.com/aniellodesanto/MeLo>MeLo</A>). 
-I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acquisition-lab/>Speech Acquisition Lab</A>, and a member of the inter-departmental <A HREF="https://sites.google.com/view/speech-acquisition-lab/clarg-speaker-series?authuser=0>CLARG</A> group.
+At U of U, I direct the MathEmatics of Language and cOgnition Lab (<A HREF="https://github.com/aniellodesanto/MeLo">MeLo</A>). 
+I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acquisition-lab/">Speech Acquisition Lab</A>, and a member of the inter-departmental <A HREF="https://sites.google.com/view/speech-acquisition-lab/clarg-speaker-series?authuser=0">CLARG</A> group.
 </p>
 
 <h2>Research (in brief)</h2>
