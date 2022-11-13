@@ -29,6 +29,8 @@ layout: page
 
 <p  style="text-align:justify">I am an Assistant Professor in the Linguistics Department at the  University of Utah.
 I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in syntax and phonology).
+At U of U, I direct the MathEmatics of Language and cOgnition Lab (<A HREF="https://github.com/aniellodesanto/MeLo>MeLo</A>). 
+I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acquisition-lab/>Speech Acquisition Lab</A>, and a member of the inter-departmental <A HREF="https://sites.google.com/view/speech-acquisition-lab/clarg-speaker-series?authuser=0>CLARG</A> group.
 </p>
 
 <h2>Research (in brief)</h2>
@@ -38,7 +40,9 @@ I am a computational psycholinguist, also interested in mathematical approaches 
 My research lies at the intersection between computational, theoretical, and experimental linguistics.
 Essentially, I believe that language as a cognitive faculty can be characterized in fundamentally computational terms.
 My work pivots around three central questions: What are the representational primitives underlying the language system? What are the essential computational processes of language processing? How do these components interact with core cognitive resources like memory? 
-I approach these questions by drawing from different areas of theoretical computer science (in particular, formal languages and parsing theory), a  perspective that is multi-disciplinary at its core, and has allowed me to work on a variety of topics spanning phonology, morphology, semantics, and sentence processing.
+These questions are deeply connected with my interest in theory building and evaluation, both in linguistics and in cognitive science broadly.
+I approach these issues by drawing from different areas of theoretical computer science (formal languages, parsing theory, computational complexity theory), linguistic theory, and experimental methods.
+This perspective is multi-disciplinary at its core, and has allowed me to work on a variety of topics spanning phonology, morphology, semantics, (generative) syntax, and sentence processing.
 </p>
 
 <p  style="text-align:justify">
