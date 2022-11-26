@@ -8,13 +8,13 @@ layout: page
  <tr>
     <td>
      Assistant Professor<br>
-     Office: Zoom these days<BR>
+     Office: LNCO or Zoom these days<BR>
      <A HREF="https://linguistics.utah.edu/">Dept. of Linguistics</A><BR>
       University of Utah<BR>
       Salt Lake City, UT 84112<BR>
       aniello.desanto[_at_]utah[_dot_]edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A> (updated 06/01/2021)
+      <A HREF="CV.pdf">CV</A> (updated 11/16/2021)
       <br><br>
       
 </td><td>
@@ -28,7 +28,7 @@ layout: page
 </table>
 
 <p  style="text-align:justify">I am an Assistant Professor in the Linguistics Department at the  University of Utah.
-I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in syntax and phonology).
+I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in theoretical syntax and phonology).
 At U of U, I direct the MathEmatics of Language and cOgnition Lab (<A HREF="https://aniellodesanto.github.io/MeLo/">MeLo</A>). 
 I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acquisition-lab/">Speech Acquisition Lab</A>, and a member of the inter-departmental <A HREF="https://sites.google.com/view/speech-acquisition-lab/clarg-speaker-series?authuser=0">CLARG</A> group.
 </p>
@@ -46,7 +46,7 @@ This perspective is multi-disciplinary at its core, and has allowed me to work o
 </p>
 
 <p  style="text-align:justify">
-If you are wondering what any of this actually means, feel free to browse my <A HREF="../projects">Projects</A> or <A HREF="../publications">Publications</A> pages!
+If you are wondering what any of this actually means, feel free to browse my <A HREF="../projects">Projects</A> or <A HREF="../publications">Publications</A> pages, or give a look at my Ph.D. dissertation: <A HREF="DeSantoAniello_Dissertation_Final.pdf">"Structure and Memory: A Computational Model of Storage, Gradience, and Priming"</A>.
 If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
 </p>
 
@@ -55,9 +55,7 @@ If you are a student or a researcher interested in collaborating with me, feel f
 
 <h2>Past Affiliations</h2>
 <p  style="text-align:justify">
-
 Before coming to Utah, I got my PhD in Linguistics from Stony Brook University, as an advisee of  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
-My dissertation is titled <A HREF="DeSantoAniello_Dissertation_Final.pdf">"Structure and Memory: A Computational Model of Storage, Gradience, and Priming"</A>.
  </p>
  <p  style="text-align:justify">
 In a previous life, I studied to become an Automation Engineer.
