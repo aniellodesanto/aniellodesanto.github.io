@@ -14,7 +14,7 @@ layout: page
       Salt Lake City, UT 84112<BR>
       aniello.desanto[_at_]utah[_dot_]edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A> (updated 11/16/2021)
+      <A HREF="CV.pdf">CV</A> (updated 11/26/2022)
       <br><br>
       
 </td><td>
