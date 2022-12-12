@@ -40,14 +40,16 @@ I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acqu
 My research lies at the intersection between computational, theoretical, and experimental linguistics.
 Essentially, I believe that language as a cognitive faculty can be characterized in fundamentally computational terms.
 My work pivots around three central questions: What are the representational primitives underlying the language system? What are the essential computational processes of language processing? How do these components interact with core cognitive resources like memory? 
-These questions are deeply connected with my interest in theory building and evaluation, both in linguistics and in cognitive science broadly.
+These questions are deeply connected with my interest in theory building and evaluation, both in linguistics and in cognyouitive science broadly.
 I approach these issues by drawing from different areas of theoretical computer science (formal languages, parsing theory, computational complexity theory), linguistic theory, and experimental methods.
 This perspective is multi-disciplinary at its core, and has allowed me to work on a variety of topics spanning phonology, morphology, semantics, (generative) syntax, and sentence processing.
 </p>
 
 <p  style="text-align:justify">
-If you are wondering what any of this actually means, feel free to browse my <A HREF="../projects">Projects</A> or <A HREF="../publications">Publications</A> pages, or give a look at my Ph.D. dissertation: <A HREF="DeSantoAniello_Dissertation_Final.pdf">"Structure and Memory: A Computational Model of Storage, Gradience, and Priming"</A>.
-If you are a student or a researcher interested in collaborating with me, feel free to get in touch via email!
+If you are wondering what any of this actually means, feel free to browse my <A HREF="../publications">Publications</A> page (or <A HREF="<A HREF="https://scholar.google.com/citations?user=bzk5U9IAAAAJ&hl=en">Scholar Profile</A>), or give a look at my Ph.D. dissertation: <A HREF="DeSantoAniello_Dissertation_Final.pdf">"Structure and Memory: A Computational Model of Storage, Gradience, and Priming"</A>.
+You can also hear me talk about some topics I care about <A HREF="https://www.facebook.com/36919350/videos/10102918907039060/">here</A> and <A HREF="https://www.youtube.com/watch?v=1-rekpSYvB8">here</A>.
+
+If you are a student interested in collaborating with me, please check out my <A HREF="https://aniellodesanto.github.io/MeLo/">Lab</A> page and some of my recent publications before getting in touch!
 </p>
 
 
