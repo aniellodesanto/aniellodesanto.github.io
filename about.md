@@ -14,7 +14,7 @@ layout: page
       Salt Lake City, UT 84112<BR>
       aniello.desanto[_at_]utah[_dot_]edu<BR>
       <BR>
-      <A HREF="CV.pdf">CV</A> (updated 11/26/2022)
+      <A HREF="CV.pdf">CV</A> (updated 01/15/2024)
       <br><br>
       
 </td><td>
@@ -40,7 +40,7 @@ I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acqu
 My research lies at the intersection between computational, theoretical, and experimental linguistics.
 Essentially, I believe that language as a cognitive faculty can be characterized in fundamentally computational terms.
 My work pivots around three central questions: What are the representational primitives underlying the language system? What are the essential computational processes of language processing? How do these components interact with core cognitive resources like memory? 
-These questions are deeply connected with my interest in theory building and evaluation, both in linguistics and in cognyouitive science broadly.
+These questions are deeply connected with my interest in theory building and evaluation, both in linguistics and in cognitive science broadly.
 I approach these issues by drawing from different areas of theoretical computer science (formal languages, parsing theory, computational complexity theory), linguistic theory, and experimental methods.
 This perspective is multi-disciplinary at its core, and has allowed me to work on a variety of topics spanning phonology, morphology, semantics, (generative) syntax, and sentence processing.
 </p>
@@ -51,8 +51,6 @@ You can also hear me talk about some topics I care about <A HREF="https://www.fa
 
 If you are a student interested in collaborating with me, please check out my <A HREF="https://aniellodesanto.github.io/MeLo/">Lab</A> page and some of my recent publications before getting in touch!
 </p>
-
-
 
 
 <h2>Past Affiliations</h2>
