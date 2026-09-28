@@ -7,8 +7,8 @@ layout: page
 <table style="width: 750px; height: 100px;">
  <tr>
     <td>
-     Assistant Professor<br>
-     Office: LNCO or Zoom these days<BR>
+     Associate Professor<br>
+     Office: LNCO<BR>
      <A HREF="https://linguistics.utah.edu/">Dept. of Linguistics</A><BR>
       University of Utah<BR>
       Salt Lake City, UT 84112<BR>
@@ -27,9 +27,9 @@ layout: page
  </tr>
 </table>
 
-<p  style="text-align:justify">I am an Assistant Professor in the Linguistics Department at the  University of Utah.
+<p  style="text-align:justify">I am an AssociateProfessor in the Linguistics Department at the  University of Utah.
 I am a computational psycholinguist, also interested in mathematical approaches to linguistic theory (mostly dealing with issues in theoretical syntax and phonology).
-At U of U, I direct the MathEmatics of Language and cOgnition Lab (<A HREF="https://aniellodesanto.github.io/MeLo/">MeLo</A>). 
+At U of U, I direct the MathEmatics of Language and cOgnition Lab (<A HREF="https://aniellodesanto.github.io/MeLo/">MeLo</A>), and I co-direct (with Caleb Belth and Yang Wang) the Computational Linguistics Working Group.
 I am also affiliated with the <A HREF="https://sites.google.com/view/speech-acquisition-lab/">Speech Acquisition Lab</A>, and a member of the inter-departmental <A HREF="https://sites.google.com/view/speech-acquisition-lab/clarg-speaker-series?authuser=0">CLARG</A> group.
 </p>
 
@@ -55,7 +55,7 @@ If you are a student interested in collaborating with me, please check out my <A
 
 <h2>Past Affiliations</h2>
 <p  style="text-align:justify">
-Before coming to Utah, I got my PhD in Linguistics from Stony Brook University, as an advisee of  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
+Before coming to Utah in 2020, I got my PhD in Linguistics from Stony Brook University, as an advisee of  <A HREF="http://thomasgraf.net/">Thomas Graf</A>.
  </p>
  <p  style="text-align:justify">
 In a previous life, I studied to become an Automation Engineer.
